@@ -1,1 +1,1 @@
-"# hs_dashboard_lite" 
+"# hs_dashboard_light" 
